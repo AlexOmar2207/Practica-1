@@ -6,10 +6,6 @@
     box-sizing: border-box;
 }
 
-*{
-    /* outline: 3px solid crimson; */
-}
-
 body{
     font-family: 'Montserrat', sans-serif;
     background: hsl(30, 38%, 92%);
@@ -21,7 +17,7 @@ body{
 
 .card{
     max-width: 700px;
-    min-height: 500px;
+    min-height: 400px;
     width: 90%;
     background: hsl(0, 0%, 100%);
     display: grid;
